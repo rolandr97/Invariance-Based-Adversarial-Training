@@ -1,2 +1,7 @@
 *
+!invariance_examples_generation
+!drawio
+!drawio/*
+!images
+!images/*
 !.gitignore
