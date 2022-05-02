@@ -5,3 +5,8 @@
 !images
 !images/*
 !.gitignore
+!ptb_training/
+!ptb_training/*
+!invariance_examples
+!invariance_examples_tramer
+!invariance_examples_tramer/*
