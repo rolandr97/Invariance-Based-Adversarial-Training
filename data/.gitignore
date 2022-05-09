@@ -1,12 +1,14 @@
-*
-!invariance_examples_generation
-!drawio
-!drawio/*
-!images
-!images/*
-!.gitignore
-!ptb_training/
-!ptb_training/*
-!invariance_examples
-!invariance_examples_tramer
-!invariance_examples_tramer/*
+# *
+# !invariance_examples_generation
+# !invariance_examples_generation/*
+# !drawio
+# !drawio/*
+# !images
+# !images/*
+# !.gitignore
+# !ptb_training/
+# !ptb_training/*
+# !invariance_examples
+# !invariance_examples/*
+# !invariance_examples_tramer
+# !invariance_examples_tramer/*
