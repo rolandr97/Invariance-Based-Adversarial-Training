@@ -13,7 +13,17 @@
 
 ## Prerequisites
 
-Install all necessary dependencies with pip
+Make sure you have installed all of the following prerequisites:
+
+- [Tensorflow](https://www.tensorflow.org)
+- [Foolbox](https://foolbox.readthedocs.io/en/stable/)
+- [Numpy](https://numpy.org/)
+- [Keras](https://keras.io/)
+- [Matplotlib](https://matplotlib.org/)
+- [Scikit-learn](https://scikit-learn.org/stable/)
+- [Scipy](https://scipy.org/)
+
+Install all necessary dependencies using pip:
 
 ```bash
 pip install tensorflow
